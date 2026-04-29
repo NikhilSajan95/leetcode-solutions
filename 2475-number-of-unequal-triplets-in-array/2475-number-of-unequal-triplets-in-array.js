@@ -15,6 +15,25 @@ var unequalTriplets = function(nums) {
             }
         }
     }
-    return count;
-    
+    return count;    
 };
+//  OR
+// let counts = {};
+//     for (const num of nums) {
+//         counts[num] = (counts[num] ?? 0) + 1;
+//     }
+
+//     let triplets = 0;
+//     let left = 0;
+//     let n = nums.length;
+
+//     for (const val in counts) {
+//         let mid = counts[val];
+//         let right = n - left - mid;
+
+//         triplets += left * mid * right;
+
+//         left += mid;
+//     }
+
+//     return triplets;
