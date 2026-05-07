@@ -4,9 +4,7 @@
  */
 var isEmpty = function(obj) {
     if(Array.isArray(obj)){
-        if(obj.length == 0)return true
-        else return false
+        return obj.length == 0
     }else
-    if(Object.entries(obj).length == 0) return true
-    else return false
+    return Object.keys(obj).length == 0
 };
