@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Stack
