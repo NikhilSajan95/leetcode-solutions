@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1207-unique-number-of-occurrences](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1436-destination-city) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Math
 |  |
