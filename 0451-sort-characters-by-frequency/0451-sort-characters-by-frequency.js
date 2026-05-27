@@ -12,12 +12,14 @@ var frequencySort = function(s) {
     let ar = Object.entries(obj)
     ar.sort((a,b)=> b[1] - a[1])
 
-    for(let [key,val] of ar){
-        while(i<val){
-            res += key
-            i++
-        }
-        i = 0    
-    }
+    // for(let [key,val] of ar){
+    //     while(i<val){
+    //         res += key
+    //         i++
+    //     }
+    //     i = 0    
+    // }
+    let map = new Map(ar)
+    map.forEach((freq, chr) => res += chr.repeat(freq))
     return res
 };
