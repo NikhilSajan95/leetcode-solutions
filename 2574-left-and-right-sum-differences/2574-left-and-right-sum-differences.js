@@ -15,7 +15,6 @@ var leftRightDifference = function(nums) {
     let rightSum = 0;
     for (let i = n - 1; i >= 0; --i) {
         ans[i] = Math.abs(ans[i] - rightSum);
-        console.log(ans[i])
         rightSum += nums[i];
     }
 
