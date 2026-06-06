@@ -11,13 +11,13 @@ var leftRightDifference = function(nums) {
         ans[i] = leftSum;
         leftSum += nums[i];
     }
-    console.log(ans)
+
     let rightSum = 0;
     for (let i = n - 1; i >= 0; --i) {
         ans[i] = Math.abs(ans[i] - rightSum);
         console.log(ans[i])
         rightSum += nums[i];
     }
-    console.log(ans)
+
     return ans;
 };
