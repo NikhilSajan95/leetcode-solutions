@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## String
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Math
 |  |
@@ -107,12 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0415-add-strings) |
 | [1389-create-target-array-in-the-given-order](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Greedy
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Counting
 |  |
 | ------- |
@@ -123,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
 | ------- |
