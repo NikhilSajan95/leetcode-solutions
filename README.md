@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0806-number-of-lines-to-write-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0896-monotonic-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0896-monotonic-array) |
+| [1200-minimum-absolute-difference](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1436-destination-city](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1436-destination-city) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1200-minimum-absolute-difference](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
