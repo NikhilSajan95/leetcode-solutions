@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0806-number-of-lines-to-write-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0896-monotonic-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [1200-minimum-absolute-difference](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [1207-unique-number-of-occurrences](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
