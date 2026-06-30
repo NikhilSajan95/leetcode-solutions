@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0414-third-maximum-number](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0806-number-of-lines-to-write-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0027-remove-element) |
+| [0455-assign-cookies](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1200-minimum-absolute-difference](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
