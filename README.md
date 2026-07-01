@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0027-remove-element) |
 | [0455-assign-cookies](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [2000-reverse-prefix-of-word](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2000-reverse-prefix-of-word](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2129-capitalize-the-title) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0071-simplify-path) |
 | [1598-crawler-log-folder](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
 | ------- |
