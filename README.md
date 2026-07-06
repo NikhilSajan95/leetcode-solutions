@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1389-create-target-array-in-the-given-order](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1470-shuffle-the-array) |
