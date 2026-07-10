@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2129-capitalize-the-title) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
