@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1389-create-target-array-in-the-given-order](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0415-add-strings) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2427-number-of-common-factors) |
