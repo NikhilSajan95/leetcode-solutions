@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0415-add-strings) |
+| [0509-fibonacci-number](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Brainteaser
 |  |
 | ------- |
@@ -234,4 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0796-rotate-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
