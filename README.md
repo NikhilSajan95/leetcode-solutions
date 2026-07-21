@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
