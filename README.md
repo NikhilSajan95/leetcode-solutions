@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3028-ant-on-the-boundary](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3028-ant-on-the-boundary](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2574-left-and-right-sum-differences](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3028-ant-on-the-boundary](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 ## Number Theory
 |  |
 | ------- |
