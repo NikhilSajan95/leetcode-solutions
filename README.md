@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2129-capitalize-the-title) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sorting
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
 |  |
 | ------- |
