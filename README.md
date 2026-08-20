@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3028-ant-on-the-boundary](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3028-ant-on-the-boundary](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Greedy
