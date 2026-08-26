@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1598-crawler-log-folder](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1598-crawler-log-folder) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Minimax
 |  |
