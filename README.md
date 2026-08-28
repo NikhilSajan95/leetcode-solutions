@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2451-odd-string-difference](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2451-odd-string-difference) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2451-odd-string-difference](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2451-odd-string-difference) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2437-number-of-valid-clock-times](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2437-number-of-valid-clock-times) |
+| [2451-odd-string-difference](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2451-odd-string-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
