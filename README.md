@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0409-longest-palindrome) |
