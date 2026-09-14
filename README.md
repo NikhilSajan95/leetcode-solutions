@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2451-odd-string-difference](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2451-odd-string-difference) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2716-minimize-string-length](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2716-minimize-string-length) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-number-of-valid-clock-times](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2437-number-of-valid-clock-times) |
 | [2451-odd-string-difference](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2451-odd-string-difference) |
 | [2716-minimize-string-length](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2716-minimize-string-length) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3028-ant-on-the-boundary](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
