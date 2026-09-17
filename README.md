@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2748-number-of-beautiful-pairs](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2748-number-of-beautiful-pairs) |
+| [2765-longest-alternating-subarray](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2765-longest-alternating-subarray) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2427-number-of-common-factors](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2437-number-of-valid-clock-times](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2437-number-of-valid-clock-times) |
+| [2765-longest-alternating-subarray](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2765-longest-alternating-subarray) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
