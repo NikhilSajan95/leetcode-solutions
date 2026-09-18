@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2652-sum-multiples](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2748-number-of-beautiful-pairs](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2748-number-of-beautiful-pairs) |
+| [2769-find-the-maximum-achievable-number](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
