@@ -3,11 +3,11 @@
  * @return {string}
  */
 var finalString = function(s) {
-    let str = ''
+    let str = []
     for(let char of s){
-        if(char === 'i') str = str.split('').reverse().join('')
+        if(char !== 'i') str.push(char)
         else
-        str += char
+        str.reverse()
     }
-    return str
+    return str.join('')
 };
