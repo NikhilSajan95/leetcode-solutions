@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2748-number-of-beautiful-pairs](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [2843-count-symmetric-integers](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2437-number-of-valid-clock-times](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2437-number-of-valid-clock-times) |
 | [2765-longest-alternating-subarray](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2765-longest-alternating-subarray) |
+| [2843-count-symmetric-integers](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
