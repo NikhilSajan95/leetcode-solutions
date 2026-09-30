@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2788-split-strings-by-separator](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2848-points-that-intersect-with-cars](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3028-ant-on-the-boundary](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2748-number-of-beautiful-pairs](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [2848-points-that-intersect-with-cars](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2848-points-that-intersect-with-cars](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [3028-ant-on-the-boundary](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 | [3903-smallest-stable-index-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
