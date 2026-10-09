@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2899-last-visited-integers](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2899-last-visited-integers) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3028-ant-on-the-boundary](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## Hash Table
 |  |
 | ------- |
