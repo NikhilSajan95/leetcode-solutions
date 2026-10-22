@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1399-count-largest-group](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1436-destination-city](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1496-path-crossing) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [1399-count-largest-group](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1399-count-largest-group](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1603-design-parking-system](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [2029-stone-game-ix](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
