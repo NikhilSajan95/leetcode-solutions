@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1408-string-matching-in-an-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
+| [1417-reformat-the-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1417-reformat-the-string) |
 | [1436-destination-city](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1496-path-crossing) |
 | [1528-shuffle-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1528-shuffle-string) |
