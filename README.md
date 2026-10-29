@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3668-restore-finishing-order](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3668-restore-finishing-order) |
+| [3689-maximum-total-subarray-value-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Counting
 |  |
 | ------- |
