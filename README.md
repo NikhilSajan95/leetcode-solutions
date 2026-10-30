@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2848-points-that-intersect-with-cars](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3028-ant-on-the-boundary](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Number Theory
@@ -435,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -502,8 +507,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
 | ------- |
 | [2923-find-champion-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2923-find-champion-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
