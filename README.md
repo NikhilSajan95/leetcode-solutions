@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2129-capitalize-the-title) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2437-number-of-valid-clock-times](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2437-number-of-valid-clock-times) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2652-sum-multiples](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2652-sum-multiples) |
