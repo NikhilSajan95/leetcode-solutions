@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -529,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
