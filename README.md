@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0697-degree-of-an-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1399-count-largest-group](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1399-count-largest-group) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1399-count-largest-group](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1603-design-parking-system](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1603-design-parking-system) |
@@ -534,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0278-first-bad-version) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
