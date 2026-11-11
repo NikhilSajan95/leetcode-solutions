@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2923-find-champion-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2923-find-champion-i) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3028-ant-on-the-boundary](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2848-points-that-intersect-with-cars](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0476-number-complement) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
@@ -542,4 +545,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
+## Trie
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
