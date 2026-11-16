@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0806-number-of-lines-to-write-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Trie
 |  |
