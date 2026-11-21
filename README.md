@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3028-ant-on-the-boundary](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3206-alternating-groups-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3206-alternating-groups-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3206-alternating-groups-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3206-alternating-groups-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Trie
 |  |
