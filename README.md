@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3838-weighted-word-mapping](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3206-alternating-groups-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3206-alternating-groups-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Trie
 |  |
 | ------- |
