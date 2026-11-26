@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1598-crawler-log-folder](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1652-defuse-the-bomb](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3206-alternating-groups-i](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3206-alternating-groups-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/NikhilSajan95/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
